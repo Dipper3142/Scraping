@@ -2,10 +2,10 @@
  * Instagram Story Downloader
  *
  * Author: Dippy (https://github.com/Dipper3142)
- * Base: hthttps://www.storysaver.net/en/
+ * Base: https://www.storysaver.net/en/
  * Source: https://whatsapp.com/channel/0029Vb93wNfD8SE6mgz31526
  *
- * Note1: Jangan di hapus we em nya, hargai dev-scraper kecil :) (BANYAK PAKE TOKEN BJIR)
+ * Note: Jangan di hapus we em nya, hargai dev-scraper kecil :) (BANYAK PAKE TOKEN BJIR)
  */
 
 /**
