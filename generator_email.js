@@ -1,3 +1,13 @@
+/*
+ * Email Generator
+ *
+ * Author: Dippy (https://github.com/Dipper3142)
+ * Base: https://generator.email/
+ * Source: https://whatsapp.com/channel/0029Vb93wNfD8SE6mgz31526
+ *
+ * Note1: Jangan di hapus we em nya, hargai dev-scraper kecil :) (BANYAK PAKE TOKEN BJIR)
+ */
+
 /**
  * @file generator_email.js
  * @description Standalone zero-dependency Node.js SDK and CLI for generator.email
