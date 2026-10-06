@@ -1,3 +1,13 @@
+/*
+ * MCPEDL - All-in-One Instagram Media, Stories, Profile & Intelligence Scraper
+ *
+ * Author: Dippy (https://github.com/Dipper3142)
+ * Base: https://mcpedl.com/
+ * Source: https://whatsapp.com/channel/0029Vb93wNfD8SE6mgz31526
+ *
+ * Note1: Jangan di hapus we em nya, hargai dev-scraper kecil :) (BANYAK PAKE TOKEN BJIR)
+ */
+
 /**
  * @fileoverview MCPEDL.com Scraper & API Client
  * Standalone, zero-dependency Node.js client and parser for Minecraft Bedrock (MCPE) mods,
